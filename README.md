@@ -3,11 +3,11 @@ A 64-bit operating system using Docker
 
 Tools used:
 
-Visual Studio Code for writing and compiling the code
+- Visual Studio Code for writing and compiling the code
 
-Docker for building the Operating System
+- Docker for building the Operating System
 
-Qemu for emulating the OS
+- Qemu for emulating the OS
 
 
 LOGO:
